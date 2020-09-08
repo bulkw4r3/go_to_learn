@@ -14,5 +14,5 @@ func main() {
 	})
 
 	// Start service
-	g.Start(":3000")
+	g.Start(":3001")
 }
